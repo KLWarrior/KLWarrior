@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Benjamin Rodney 👋
 
-<!--
-**KLWarrior/KLWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Technical Writer | User-Focused | Clarity-Driven
 
-Here are some ideas to get you started:
+I’m transitioning into **technical writing** and building a portfolio centered on _SaaS and AI_. My goal is to help everyday users succeed with clear, structured documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I’m currently focused on:
+
+* Help Center articles (how-tos, troubleshooting, FAQs)
+* Onboarding and setup guides for new users
+* Clear UX writing and content structure (headings, steps, examples)
+
+#### What you’ll find here:
+
+* Writing samples and doc-style practice pieces
+* Before/after rewrites of product documentation
+* Notes on documenting AI features for everyday users (expectations, limitations, examples)
